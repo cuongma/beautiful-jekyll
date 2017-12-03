@@ -2,7 +2,6 @@
 layout: post
 title: Trung-Thu Của Những Yêu Thương
 subtitle: Tà Lài - 01/10/2017	
-gh-repo: daattali/beautiful-jekyll
 ---
 
 Mùa Trung Thu vừa qua, mình có cơ hội được tham gia tổ chức Tết Trung Thu cho các em thiếu nhi ở Xã Tà Lài, Đồng Nai. Sau chuyến đi, đọng lại rất nhiều cảm xúc, những hình ảnh đó cứ luẩn quẩn mãi trong tâm trí mình. Một em bé, một người mẹ, một cô giáo, một ông thầy,... Đó là những kỷ niệm khó quên cho mùa Tết Trung Thu 2017 của mình <3 <3 <3
