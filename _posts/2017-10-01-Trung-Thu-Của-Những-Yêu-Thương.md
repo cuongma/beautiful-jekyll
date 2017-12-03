@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trung-Thu Của Những Yêu Thương
-subtitle: Trung Thu Yêu Thương 01/10/2017	
+subtitle: Tà Lài - 01/10/2017	
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 ---
