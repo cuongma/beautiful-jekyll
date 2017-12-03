@@ -22,7 +22,7 @@ description: i have food, film and music...
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
+# navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -81,7 +81,7 @@ footer-links-active:
   email: true
   twitter: true
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
